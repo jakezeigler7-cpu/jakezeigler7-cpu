@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jake
 
-<!--
-**jakezeigler7-cpu/jakezeigler7-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in IT and operations, with a background in sales and systems administration.
 
-Here are some ideas to get you started:
+Day to day that usually means:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and SQL
+- VoIP (Asterisk)
+- Flask and React
+- Cloud and networking
+- A bit of work with AI models
+
+Based in Gastonia, NC.
+
+[LinkedIn](https://www.linkedin.com/in/jakebz/)
